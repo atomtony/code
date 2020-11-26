@@ -31,7 +31,7 @@ type (
 )
 
 func main() {
-	uri := "http://ajax.googleapis.com/ajax/services/search/web?v=1.0&rsz=8&q=golang"
+	uri := "https://raw.githubusercontent.com/atomtony/code/master/chapter8/listing24/googleapis.json"
 
 	// Issue the search against Google.
 	resp, err := http.Get(uri)
