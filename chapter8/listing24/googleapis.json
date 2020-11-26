@@ -1,0 +1,89 @@
+{
+  "responseData": {
+    "results": [
+      {
+        "GsearchResultClass": "GwebSearch",
+        "unescapedUrl": "http://en.wikipedia.org/wiki/Wikipedia:Search_engine_test",
+        "url": "http://en.wikipedia.org/wiki/Wikipedia:Search_engine_test",
+        "visibleUrl": "en.wikipedia.org",
+        "cacheUrl": "http://www.google.com/search?q\u003dcache:g6KEStELS_MJ:en.wikipedia.org",
+        "title": "Wikipedia:\u003cb\u003eSearch\u003c/b\u003eengine\u003cb\u003etest\u003c/b\u003e-Wikipedia,thefreeencyclopedia",
+        "titleNoFormatting": "Wikipedia:Searchenginetest-Wikipedia,thefreeencyclopedia",
+        "content": "A\u003cb\u003esearch\u003c/b\u003eengine\u003cb\u003etest\u003c/b\u003ecannothelpyouavoidtheworkofinterpretingyourresultsanddecidingwhattheyreallyshow.Appearanceinanindexaloneisnotusually\u003cb\u003e...\u003c/b\u003e"
+      },
+      {
+        "GsearchResultClass": "GwebSearch",
+        "unescapedUrl": "http://techcrunch.com/2008/07/16/google-continues-to-test-a-search-interface-that-looks-more-like-digg-every-day/",
+        "url": "http://techcrunch.com/2008/07/16/google-continues-to-test-a-search-interface-that-looks-more-like-digg-every-day/",
+        "visibleUrl": "techcrunch.com",
+        "cacheUrl": "http://www.google.com/search?q\u003dcache:r2laSUVQw8kJ:techcrunch.com",
+        "title": "GoogleContinuesTo\u003cb\u003eTest\u003c/b\u003eA\u003cb\u003eSearch\u003c/b\u003eInterfaceThatLooksMoreLike\u003cb\u003e...\u003c/b\u003e",
+        "titleNoFormatting": "GoogleContinuesToTestASearchInterfaceThatLooksMoreLike...",
+        "content": "Jul16,2008\u003cb\u003e...\u003c/b\u003eAcoupleofdaysagowepostedscreenshotsofanew\u003cb\u003esearch\u003c/b\u003einterfacebeingbucket\u003cb\u003etested\u003c/b\u003ebyGooglethatletsusersvoteupordownon\u003cb\u003e...\u003c/b\u003e"
+      },
+      {
+        "GsearchResultClass": "GwebSearch",
+        "unescapedUrl": "http://googleblog.blogspot.com/2006/04/this-is-test-this-is-only-test.html",
+        "url": "http://googleblog.blogspot.com/2006/04/this-is-test-this-is-only-test.html",
+        "visibleUrl": "googleblog.blogspot.com",
+        "cacheUrl": "http://www.google.com/search?q\u003dcache:Ozl1cQzRT0IJ:googleblog.blogspot.com",
+        "title": "Thisisa\u003cb\u003etest\u003c/b\u003e.Thisisonlya\u003cb\u003etest\u003c/b\u003e.|OfficialGoogleBlog",
+        "titleNoFormatting": "Thisisatest.Thisisonlyatest.|OfficialGoogleBlog",
+        "content": "Apr24,2006\u003cb\u003e...\u003c/b\u003eFromtimetotime,werunliveexperimentsonGoogle—\u003cb\u003etests\u003c/b\u003evisibletoarelativelyfewpeople--todiscoverbetterwaysto\u003cb\u003esearch\u003c/b\u003e.Wedothis\u003cb\u003e...\u003c/b\u003e"
+      },
+      {
+        "GsearchResultClass": "GwebSearch",
+        "unescapedUrl": "http://alistapart.com/article/testing-search-for-relevancy-and-precision",
+        "url": "http://alistapart.com/article/testing-search-for-relevancy-and-precision",
+        "visibleUrl": "alistapart.com",
+        "cacheUrl": "http://www.google.com/search?q\u003dcache:02Sjrd5mb0YJ:alistapart.com",
+        "title": "\u003cb\u003eTestingSearch\u003c/b\u003eforRelevancyandPrecision·AnAListApartArticle",
+        "titleNoFormatting": "TestingSearchforRelevancyandPrecision·AnAListApartArticle",
+        "content": "Sep22,2009\u003cb\u003e...\u003c/b\u003eDespitethefactthatsite\u003cb\u003esearch\u003c/b\u003eoftenreceivesthemosttraffic,it\u0026#39;salsotheplacewheretheuserexperiencedesignerbearstheleastinfluence."
+      }
+    ],
+    "cursor": {
+      "resultCount": "1,010,000,000",
+      "pages": [
+        {
+          "start": "0",
+          "label": 1
+        },
+        {
+          "start": "4",
+          "label": 2
+        },
+        {
+          "start": "8",
+          "label": 3
+        },
+        {
+          "start": "12",
+          "label": 4
+        },
+        {
+          "start": "16",
+          "label": 5
+        },
+        {
+          "start": "20",
+          "label": 6
+        },
+        {
+          "start": "24",
+          "label": 7
+        },
+        {
+          "start": "28",
+          "label": 8
+        }
+      ],
+      "estimatedResultCount": "1010000000",
+      "currentPageIndex": 0,
+      "moreResultsUrl": "http://www.google.com/search?oe\u003dutf8\u0026ie\u003dutf8\u0026source\u003duds\u0026start\u003d0\u0026hl\u003den\u0026q\u003dTest+search",
+      "searchResultTime": "0.23"
+    }
+  },
+  "responseDetails": null,
+  "responseStatus": 200
+}
